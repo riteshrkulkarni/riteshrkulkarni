@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ritesh Ravindra Kulkarni
 # 💫 About Me:
-🎓 Electronics and Communication Engineering student<br>🛩️ Passionate about Autonomous Drones, Aerospace Systems, and Embedded Development<br>🛩️ Building intelligent drones with AI, Computer Vision, and Real-time Control<br>🌐 Exploring ROS2, Gazebo, and UAV Simulations for autonomous navigation<br>🚀 Focused on Navigation, Path Planning, and Autonomous Systems<br>📚 Lifelong learner, innovator, and maker
+🎓 Electronics and Communication Engineering student<br>🧠 Skilled in Analog Circuit Simulations, PCB Design, and Hardware Debugging</br>🛩️ Passionate about Autonomous Drones, Aerospace Systems, and Embedded Development<br>🛩️ Building intelligent drones with AI, Computer Vision, and Real-time Control<br>🌐 Exploring ROS2, Gazebo, and UAV Simulations for autonomous navigation<br>🚀 Focused on Navigation, Path Planning, and Autonomous Systems<br>📚 Lifelong learner, innovator, and maker
 
 
 ## 🌐 Socials:
